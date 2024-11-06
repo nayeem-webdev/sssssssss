@@ -1,0 +1,360 @@
+[
+  {
+    "product_id": "L004",
+    "product_title": "ASUS ZenBook 14 OLED",
+    "product_image": "https://raw.githubusercontent.com/nayeem-webdev/gadget-data-json/refs/heads/main/assets/L004.jpeg",
+    "category": "Laptops",
+    "price": 899,
+    "description": "ASUS ZenBook 14 OLED with vibrant OLED display, powerful performance, and ultra-thin design.",
+    "specification": [
+      "14-inch 2.8K OLED display",
+      "AMD Ryzen 7 5800H processor",
+      "16GB LPDDR4X RAM",
+      "1TB PCIe SSD",
+      "Windows 11 Home"
+    ],
+    "availability": true,
+    "rating": 4.6
+  },
+  {
+    "product_id": "H003",
+    "product_title": "Apple AirPods Max",
+    "product_image": "https://raw.githubusercontent.com/nayeem-webdev/gadget-data-json/refs/heads/main/assets/H003.jpeg",
+    "category": "Headphones",
+    "price": 549,
+    "description": "Apple AirPods Max with active noise cancellation and spatial audio.",
+    "specification": [
+      "Over-ear design",
+      "20-hour battery life",
+      "Spatial audio with dynamic head tracking",
+      "Transparency mode",
+      "Bluetooth 5.0"
+    ],
+    "availability": true,
+    "rating": 4.6
+  },
+  {
+    "product_id": "W001",
+    "product_title": "Apple Watch Series 9",
+    "product_image": "https://raw.githubusercontent.com/nayeem-webdev/gadget-data-json/refs/heads/main/assets/W001.jpeg",
+    "category": "Wearables",
+    "price": 399,
+    "description": "Apple Watch Series 9 with advanced health tracking and faster performance.",
+    "specification": [
+      "Always-On Retina display",
+      "Blood oxygen and ECG apps",
+      "S9 processor",
+      "Crash Detection",
+      "18-hour battery life"
+    ],
+    "availability": true,
+    "rating": 4.8
+  },
+  {
+    "product_id": "T002",
+    "product_title": "Apple iPad Pro 12.9-inch",
+    "product_image": "https://raw.githubusercontent.com/nayeem-webdev/gadget-data-json/refs/heads/main/assets/T002.jpeg",
+    "category": "Tablets",
+    "price": 1099,
+    "description": "Apple iPad Pro with M2 chip and stunning XDR display.",
+    "specification": [
+      "12.9-inch Liquid Retina XDR display",
+      "Apple M2 chip",
+      "Up to 2TB storage",
+      "Support for Apple Pencil 2",
+      "5G capable"
+    ],
+    "availability": true,
+    "rating": 4.8
+  },
+  {
+    "product_id": "P001",
+    "product_title": "Apple iPhone 15 Pro Max",
+    "product_image": "https://raw.githubusercontent.com/nayeem-webdev/gadget-data-json/refs/heads/main/assets/P001.jpeg",
+    "category": "Smartphones",
+    "price": 1299,
+    "description": "Experience the ultimate smartphone with the iPhone 15 Pro Max.",
+    "specification": [
+      "6.7-inch Super Retina XDR display",
+      "A17 Bionic chip",
+      "Triple-camera system (48MP Main, 12MP Telephoto, Ultrawide)",
+      "LiDAR Scanner",
+      "Up to 2TB storage"
+    ],
+    "availability": true,
+    "rating": 4.8
+  },
+  {
+    "product_id": "H002",
+    "product_title": "Bose QuietComfort 45",
+    "product_image": "https://raw.githubusercontent.com/nayeem-webdev/gadget-data-json/refs/heads/main/assets/H002.jpeg",
+    "category": "Headphones",
+    "price": 329,
+    "description": "Bose QuietComfort 45 with quiet mode and aware mode for customizable sound.",
+    "specification": [
+      "Over-ear design",
+      "24-hour battery life",
+      "Adjustable noise cancellation",
+      "USB-C charging",
+      "Bluetooth 5.1"
+    ],
+    "availability": true,
+    "rating": 4.7
+  },
+  {
+    "product_id": "L002",
+    "product_title": "Dell XPS 13 Plus",
+    "product_image": "https://raw.githubusercontent.com/nayeem-webdev/gadget-data-json/refs/heads/main/assets/L002.jpeg",
+    "category": "Laptops",
+    "price": 1299,
+    "description": "Dell XPS 13 Plus, a powerful laptop with stunning edge-to-edge display.",
+    "specification": [
+      "13.4-inch InfinityEdge display",
+      "Intel Core i7-1260P",
+      "16GB LPDDR5 RAM",
+      "1TB SSD",
+      "12-hour battery life"
+    ],
+    "availability": true,
+    "rating": 4.6
+  },
+  {
+    "product_id": "W003",
+    "product_title": "Garmin Forerunner 265",
+    "product_image": "https://raw.githubusercontent.com/nayeem-webdev/gadget-data-json/refs/heads/main/assets/W003.jpeg",
+    "category": "Wearables",
+    "price": 499,
+    "description": "Garmin Forerunner 265 with GPS and extensive training insights.",
+    "specification": [
+      "AMOLED display",
+      "Garmin Pay",
+      "VO2 Max and advanced metrics",
+      "5 ATM water resistance",
+      "Up to 14 days battery life"
+    ],
+    "availability": true,
+    "rating": 4.7
+  },
+  {
+    "product_id": "P003",
+    "product_title": "Google Pixel 8 Pro",
+    "product_image": "https://raw.githubusercontent.com/nayeem-webdev/gadget-data-json/refs/heads/main/assets/P003.jpeg",
+    "category": "Smartphones",
+    "price": 999,
+    "description": "Google Pixel 8 Pro with advanced AI and Google’s best camera technology.",
+    "specification": [
+      "6.7-inch LTPO OLED display",
+      "Tensor G3 Processor",
+      "Triple-camera setup (50MP Wide, 48MP Telephoto, 12MP Ultra-wide)",
+      "5000mAh battery",
+      "Face unlock and fingerprint unlock"
+    ],
+    "availability": true,
+    "rating": 4.6
+  },
+  {
+    "product_id": "L003",
+    "product_title": "HP Spectre x360",
+    "product_image": "https://raw.githubusercontent.com/nayeem-webdev/gadget-data-json/refs/heads/main/assets/L003.jpeg",
+    "category": "Laptops",
+    "price": 1399,
+    "description": "HP Spectre x360 with flexibility and 2-in-1 laptop-tablet design.",
+    "specification": [
+      "13.5-inch OLED touchscreen",
+      "Intel Core i7-1250U",
+      "16GB LPDDR4x RAM",
+      "512GB SSD",
+      "14-hour battery life"
+    ],
+    "availability": true,
+    "rating": 4.5
+  },
+  {
+    "product_id": "W004",
+    "product_title": "Huawei Watch GT 3 Pro",
+    "product_image": "https://raw.githubusercontent.com/nayeem-webdev/gadget-data-json/refs/heads/main/assets/W004.jpeg",
+    "category": "Wearables",
+    "price": 399,
+    "description": "The Huawei Watch GT 3 Pro offers a premium design, extensive health monitoring features, and up to two weeks of battery life.",
+    "specification": [
+      "1.43-inch AMOLED display",
+      "Dual-chipset design for better battery life",
+      "Blood Oxygen and ECG monitoring",
+      "Advanced sleep tracking",
+      "50-meter water resistance",
+      "Up to 14 days battery life"
+    ],
+    "availability": true,
+    "rating": 4.7
+  },
+  {
+    "product_id": "L001",
+    "product_title": "MacBook Air M2",
+    "product_image": "https://raw.githubusercontent.com/nayeem-webdev/gadget-data-json/refs/heads/main/assets/L001.jpeg",
+    "category": "Laptops",
+    "price": 999,
+    "description": "Apple MacBook Air with M2 chip for faster and efficient performance.",
+    "specification": [
+      "13.6-inch Liquid Retina display",
+      "Apple M2 chip",
+      "Up to 24GB unified memory",
+      "18-hour battery life",
+      "Fanless design"
+    ],
+    "availability": true,
+    "rating": 4.7
+  },
+  {
+    "product_id": "T003",
+    "product_title": "Microsoft Surface Pro 9",
+    "product_image": "https://raw.githubusercontent.com/nayeem-webdev/gadget-data-json/refs/heads/main/assets/T003.jpeg",
+    "category": "Tablets",
+    "price": 999,
+    "description": "Microsoft Surface Pro 9 with versatility of a tablet and power of a laptop.",
+    "specification": [
+      "13-inch PixelSense Flow display",
+      "Intel Core i7-1255U",
+      "16GB RAM, 512GB SSD",
+      "Windows 11 Pro",
+      "Built-in kickstand"
+    ],
+    "availability": true,
+    "rating": 4.7
+  },
+  {
+    "product_id": "P004",
+    "product_title": "OnePlus 11 Pro",
+    "product_image": "https://raw.githubusercontent.com/nayeem-webdev/gadget-data-json/refs/heads/main/assets/P004.jpeg",
+    "category": "Smartphones",
+    "price": 899,
+    "description": "OnePlus 11 Pro with fast performance and flagship features.",
+    "specification": [
+      "6.7-inch QHD+ Fluid AMOLED display",
+      "Snapdragon 8 Gen 2",
+      "Triple-camera system (50MP Main, 48MP Ultra-wide, 32MP Telephoto)",
+      "5000mAh battery with 100W charging",
+      "Hasselblad camera tuning"
+    ],
+    "availability": true,
+    "rating": 4.5
+  },
+  {
+    "product_id": "P002",
+    "product_title": "Samsung Galaxy S23 Ultra",
+    "product_image": "https://raw.githubusercontent.com/nayeem-webdev/gadget-data-json/refs/heads/main/assets/P002.jpeg",
+    "category": "Smartphones",
+    "price": 1199,
+    "description": "The Galaxy S23 Ultra offers a powerful processor and pro-grade camera.",
+    "specification": [
+      "6.8-inch Dynamic AMOLED display",
+      "Snapdragon 8 Gen 2",
+      "Quad-camera system (200MP Main, 12MP Ultra-wide, 10MP Telephoto)",
+      "5000mAh battery",
+      "Supports S Pen"
+    ],
+    "availability": true,
+    "rating": 4.7
+  },
+  {
+    "product_id": "T001",
+    "product_title": "Samsung Galaxy Tab S9",
+    "product_image": "https://raw.githubusercontent.com/nayeem-webdev/gadget-data-json/refs/heads/main/assets/T001.jpeg",
+    "category": "Tablets",
+    "price": 799,
+    "description": "Samsung Galaxy Tab S9 with immersive AMOLED display and powerful S Pen.",
+    "specification": [
+      "11-inch Dynamic AMOLED 2X display",
+      "Qualcomm Snapdragon 8 Gen 2",
+      "8GB RAM, 256GB storage",
+      "Dual-camera system",
+      "SPen support"
+    ],
+    "availability": true,
+    "rating": 4.6
+  },
+  {
+    "product_id": "W002",
+    "product_title": "Samsung Galaxy Watch6",
+    "product_image": "https://raw.githubusercontent.com/nayeem-webdev/gadget-data-json/refs/heads/main/assets/W002.jpeg",
+    "category": "Wearables",
+    "price": 349,
+    "description": "Samsung Galaxy Watch6 with comprehensive fitness and wellness tracking.",
+    "specification": [
+      "Super AMOLED display",
+      "Sleep tracking",
+      "Samsung BioActive sensor",
+      "5ATM water resistance",
+      "40-hour battery life"
+    ],
+    "availability": true,
+    "rating": 4.6
+  },
+  {
+    "product_id": "H001",
+    "product_title": "Sony WH-1000XM5",
+    "product_image": "https://raw.githubusercontent.com/nayeem-webdev/gadget-data-json/refs/heads/main/assets/H001.jpeg",
+    "category": "Headphones",
+    "price": 399,
+    "description": "Sony WH-1000XM5 wireless headphones with industry-leading noise cancellation.",
+    "specification": [
+      "Over-ear design",
+      "30-hour battery life",
+      "Hi-Res Audio support",
+      "Quick attention mode",
+      "Bluetooth 5.2"
+    ],
+    "availability": true,
+    "rating": 4.8
+  },
+  {
+    "product_id": "P005",
+    "product_title": "Sony Xperia 1 V",
+    "product_image": "https://raw.githubusercontent.com/nayeem-webdev/gadget-data-json/refs/heads/main/assets/P005.jpeg",
+    "category": "Smartphones",
+    "price": 1099,
+    "description": "Sony Xperia 1 V with professional camera quality and 4K display.",
+    "specification": [
+      "6.5-inch 4K HDR OLED display",
+      "Snapdragon 8 Gen 2",
+      "Triple-camera system (48MP Main, 12MP Telephoto, 12MP Ultra-wide)",
+      "5000mAh battery with 30W fast charging",
+      "360 Reality Audio"
+    ],
+    "availability": true,
+    "rating": 4.4
+  },
+  {
+    "product_id": "P006",
+    "product_title": "Xiaomi 13 Pro",
+    "product_image": "https://raw.githubusercontent.com/nayeem-webdev/gadget-data-json/refs/heads/main/assets/P006.jpeg",
+    "category": "Smartphones",
+    "price": 799,
+    "description": "Xiaomi 13 Pro with Leica partnership for superior photography.",
+    "specification": [
+      "6.73-inch LTPO AMOLED display",
+      "Snapdragon 8 Gen 2",
+      "Triple-camera system (50MP Wide, 50MP Telephoto, 50MP Ultra-wide)",
+      "4820mAh battery with 120W charging",
+      "Leica lens optimization"
+    ],
+    "availability": true,
+    "rating": 4.5
+  },
+  {
+    "product_id": "H004",
+    "product_title": "iClever BTH19 Cat Ear Bluetooth Headphone",
+    "product_image": "https://raw.githubusercontent.com/nayeem-webdev/gadget-data-json/refs/heads/main/assets/H004.jpeg",
+    "category": "Headphones",
+    "price": 59,
+    "description": "iClever BTH19 Cat Ear Bluetooth Headphones with LED lights, safe volume control, and playful design for kids.",
+    "specification": [
+      "Bluetooth 5.0",
+      "LED cat ear lights",
+      "Safe 85dB volume control for kids",
+      "Over-ear design with soft ear cushions",
+      "Rechargeable battery with up to 40 hours of playtime"
+    ],
+    "availability": true,
+    "rating": 4.3
+  }
+]

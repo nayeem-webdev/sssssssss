@@ -1,0 +1,27 @@
+[
+  {
+    "path": "/",
+    "component": "Home",
+    "name": "Home"
+  },
+  {
+    "path": "/shop",
+    "component": "Shop",
+    "name": "Shop"
+  },
+  {
+    "path": "/dashboard",
+    "component": "Dashboard",
+    "name": "Dashboard"
+  },
+  {
+    "path": "/statistics",
+    "component": "Statistics",
+    "name": "Statistics"
+  },
+  {
+    "path": "/blogs",
+    "component": "Blogs",
+    "name": "Blogs"
+  }
+]

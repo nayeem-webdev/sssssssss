@@ -1,0 +1,26 @@
+[
+  {
+    "name": "All Products",
+    "slug": "all-products"
+  },
+  {
+    "name": "Smartphones",
+    "slug": "smartphones"
+  },
+  {
+    "name": "Laptops",
+    "slug": "laptops"
+  },
+  {
+    "name": "Tablets",
+    "slug": "tablets"
+  },
+  {
+    "name": "Headphones",
+    "slug": "headphones"
+  },
+  {
+    "name": "Wearables",
+    "slug": "wearables"
+  }
+]
